@@ -1,0 +1,29 @@
+{
+  "home": {
+    "pageTitle": "Curtain Reveal",
+    "buttonText": "Reveal the Surprise!",
+    "playingText": "Playing audio...",
+    "finishedText": "It is done!"
+  },
+  "about": {
+    "pageTitle": "About",
+    "para1": "This application was built to provide amusement.",
+    "para2": "Created for Mobile Web Development Homework 7."
+  },
+  "settings": {
+    "pageTitle": "Settings",
+    "themeLabel": "Choose a Theme",
+    "languageLabel": "Choose a Language",
+    "voiceLabel": "Choose a Voice"
+  },
+  "help": {
+    "pageTitle": "Help",
+    "para1": "Click the button to play a sound and reveal a surprise."
+  },
+  "navigation": {
+    "home": "Home",
+    "settings": "Settings",
+    "about": "About",
+    "help": "Help"
+  }
+}

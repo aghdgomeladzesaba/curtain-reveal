@@ -1,0 +1,45 @@
+{
+  "general": {
+    "appTitle": "Curtain Reveal",
+    "buildMode": "debug",
+    "appVersion": "1.0"
+  },
+  "languages": [
+    {
+      "name": "English",
+      "textContent": "textEnglish.json",
+      "default": true
+    },
+    {
+      "name": "Russian",
+      "textContent": "textRussian.json",
+      "default": false
+    }
+  ],
+  "themes": [
+    {
+      "name": "Dark",
+      "default": true,
+      "baseColor": "#222222",
+      "baseTextColor": "#ffffff"
+    },
+    {
+      "name": "Light",
+      "default": false,
+      "baseColor": "#ffffff",
+      "baseTextColor": "#222222"
+    },
+    {
+      "name": "Matrix",
+      "default": false,
+      "baseColor": "#000000",
+      "baseTextColor": "#00ff41"
+    },
+    {
+      "name": "Barbie",
+      "default": false,
+      "baseColor": "#ff69b4",
+      "baseTextColor": "#ffffff"
+    }
+  ]
+}
