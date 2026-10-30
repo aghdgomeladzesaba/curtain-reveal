@@ -1,5 +1,5 @@
 # Curtain Reveal
-
+**[Live Demo](https://curtain-reveal-hw7-2026-4826.web.app/)**
 An interactive React application combining animated curtains, dramatic audio effects, customizable themes, and multilingual support to create a theatrical reveal experience.
 
 Created as a Mobile Web Development project at Pace University.
